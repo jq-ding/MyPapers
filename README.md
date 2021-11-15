@@ -6,11 +6,11 @@
 
 ### 2. A Multi-scale Multi-model Deep Neural Network via Ensemble Strategy on High-throughput  Microscopy Image for Protein Subcellular Localization 
 #### ***Jiaqi Ding***, Junhai Xu, Jianguo Wei, Jijun Tang , Fei Guo 
-#### Under review by Expert Systems with Applications. (IF=6.954)( Revision in progress) 
+#### Under review by Expert Systems with Applications. (IF=6.954)( Revision completed) 
 
 ### 3. Melanoma Classification in Dermoscopy Images via Ensemble Learning on Deep Neural Network 
 #### ***Jiaqi Ding***, Jie Song, Jiawei Li, Jijun Tang, Fei Guo 
-#### Under review by Frontiers in Bioengineering and Biotechnology. (IF=5.890) ( Revision in progress) 
+#### Under review by Frontiers in Bioengineering and Biotechnology. (IF=5.890) ( Revision completed) 
 
 ### 4. Multi-scale Time-series Kernel-based Learning Method for Brain Disease Diagnosis 
 #### Zehua Zhang, ***Jiaqi Ding***, Junhai Xu, Jijun Tang, Fei Guo 
